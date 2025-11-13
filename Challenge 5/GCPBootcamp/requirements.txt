@@ -1,0 +1,11 @@
+streamlit
+google-genai
+pydantic
+pytest
+google-cloud-aiplatform[evaluation]
+google-cloud-bigquery
+requests
+google-cloud-logging
+pytest-mock
+google-cloud-aiplatform
+pandas
